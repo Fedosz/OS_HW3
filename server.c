@@ -97,7 +97,7 @@ int main(int argc, char **argv) {
                 char answer[2];
 
                 answer[0] = 1;
-                answer[1] = 2;
+                answer[1] = 1;
 
                 if (honey >= 15) {
                     answer[0] = 2; // enough honey
